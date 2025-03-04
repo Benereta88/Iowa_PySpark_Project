@@ -124,6 +124,3 @@ plt.title('Crashes vs Predicted Crashes')
 plt.grid(True)
 plt.show()
 
-# Stop the Spark Session
-spark.stop()
-
